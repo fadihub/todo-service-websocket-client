@@ -16,10 +16,10 @@ public class TodoItem {
         this.due = due;
     }
 
-    public TodoItem(String description) {
+    public TodoItem(String description, String name) {
 
         this.description = description;
-        name = description;
+        this.name = name;
         due = new Date();
     }
 

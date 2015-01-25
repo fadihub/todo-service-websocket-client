@@ -27,8 +27,8 @@ public class TodoClientMain {
         client.start();
 
 
-        todoService.add(new TodoItem("Buy Milk"));
-        todoService.add(new TodoItem("Buy Hot dogs"));
+        todoService.add(new TodoItem("Greeting", "Hello World"));
+        todoService.add(new TodoItem("Tutorial","I hope you got this to work"));
 
         client.flush();
 
