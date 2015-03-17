@@ -36,6 +36,8 @@
         <entry key="$PROJECT_DIR$/../../hello" value="2848407170000" />
         <entry key="$PROJECT_DIR$/../admin" value="2847591674000" />
         <entry key="$PROJECT_DIR$/../hello" value="2848412224000" />
+        <entry key="$PROJECT_DIR$/../inproc-microservice-qbit" value="2850936640000" />
+        <entry key="$PROJECT_DIR$/../inproc-microservice-qbit-old" value="2848638876000" />
         <entry key="$PROJECT_DIR$/../qbit" value="11410132906000" />
         <entry key="$PROJECT_DIR$/../qbit-worker-callbacks" value="2850317898000" />
         <entry key="$PROJECT_DIR$/../simpel-rest-server" value="2847288908000" />
@@ -51,6 +53,7 @@
         <entry key="$USER_HOME$/github/inproc-microservice-qbit" value="2848638876000" />
         <entry key="$USER_HOME$/github/qbit" value="11412440240000" />
         <entry key="$USER_HOME$/github/simple-rest-server" value="2846758355000" />
+        <entry key="$USER_HOME$/github/testing examples from git hub/todo-service" value="2853227638000" />
         <entry key="$USER_HOME$/github/updated_examples/todo-service" value="2853110060000" />
         <entry key="$USER_HOME$/test" value="2847031320000" />
       </map>
