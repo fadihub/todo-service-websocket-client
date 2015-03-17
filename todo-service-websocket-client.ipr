@@ -33,19 +33,35 @@
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$/../../hello" value="2848407170000" />
+        <entry key="$PROJECT_DIR$/../admin" value="2847591674000" />
+        <entry key="$PROJECT_DIR$/../hello" value="2848412224000" />
+        <entry key="$PROJECT_DIR$/../qbit" value="11410132906000" />
+        <entry key="$PROJECT_DIR$/../qbit-worker-callbacks" value="2850317898000" />
+        <entry key="$PROJECT_DIR$/../simpel-rest-server" value="2847288908000" />
+        <entry key="$PROJECT_DIR$/../simple-rest-server" value="2849944096000" />
+        <entry key="$PROJECT_DIR$/../todo-list-app" value="2851156876000" />
+        <entry key="$PROJECT_DIR$/../todo-list-app-old" value="2849262889000" />
+        <entry key="$PROJECT_DIR$/../todo-list-app1" value="2849262889000" />
         <entry key="$PROJECT_DIR$/../todo-service" value="2844115048000" />
-        <entry key="$PROJECT_DIR$" value="2844115048000" />
+        <entry key="$PROJECT_DIR$" value="2848623563000" />
+        <entry key="$PROJECT_DIR$/../worker-callback-blocking" value="2850331969000" />
         <entry key="$USER_HOME$/expamples/qbit/todo-service" value="2841684243000" />
-        <entry key="$USER_HOME$/github/qbit" value="2841677220000" />
+        <entry key="$USER_HOME$/github/hello" value="2847747936000" />
+        <entry key="$USER_HOME$/github/inproc-microservice-qbit" value="2848638876000" />
+        <entry key="$USER_HOME$/github/qbit" value="11412440240000" />
+        <entry key="$USER_HOME$/github/simple-rest-server" value="2846758355000" />
+        <entry key="$USER_HOME$/github/updated_examples/todo-service" value="2853110060000" />
+        <entry key="$USER_HOME$/test" value="2847031320000" />
       </map>
     </option>
   </component>
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="/usr/local/Cellar/gradle/1.9/libexec" />
+        <option name="gradleHome" value="/usr/local/gradle/gradle-2.2.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -95,19 +111,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -134,6 +137,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -217,40 +233,40 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Gradle: io.advantageous.qbit:qbit-boon:0.5.2-SNAPSHOT">
+    <library name="Gradle: io.advantageous.qbit:boon:0.7.2">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/io/advantageous/qbit/qbit-boon/0.5.2-SNAPSHOT/qbit-boon-0.5.2-SNAPSHOT.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/boon/0.7.2/4c925da5eddac7382427887fae628c193e13ef62/boon-0.7.2.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/io/advantageous/qbit/qbit-boon/0.5.2-SNAPSHOT/qbit-boon-0.5.2-SNAPSHOT-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/boon/0.7.2/7647a71572f6616bc77c332a15eee4624288da2d/boon-0.7.2-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Gradle: io.advantageous.qbit:qbit-core:0.5.2-SNAPSHOT">
+    <library name="Gradle: io.advantageous.qbit:qbit-boon:0.7.2">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/io/advantageous/qbit/qbit-core/0.5.2-SNAPSHOT/qbit-core-0.5.2-SNAPSHOT.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-boon/0.7.2/efbdb62f748d53289ce5158b8e59b33b9eee0263/qbit-boon-0.7.2.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/io/advantageous/qbit/qbit-core/0.5.2-SNAPSHOT/qbit-core-0.5.2-SNAPSHOT-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-boon/0.7.2/49533b11c9b0ba575d0118ebe3b948e067f44b17/qbit-boon-0.7.2-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Gradle: io.advantageous.qbit:qbit-vertx:0.5.2-SNAPSHOT">
+    <library name="Gradle: io.advantageous.qbit:qbit-core:0.7.2">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/io/advantageous/qbit/qbit-vertx/0.5.2-SNAPSHOT/qbit-vertx-0.5.2-SNAPSHOT.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.7.2/9b5570a048808e860ac75f97252b4f365a86bee8/qbit-core-0.7.2.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/io/advantageous/qbit/qbit-vertx/0.5.2-SNAPSHOT/qbit-vertx-0.5.2-SNAPSHOT-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.7.2/932e1752d91470862ab271de2bb827ca00c123cc/qbit-core-0.7.2-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Gradle: io.fastjson:boon:0.31-SNAPSHOT">
+    <library name="Gradle: io.advantageous.qbit:qbit-vertx:0.7.2">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/io/fastjson/boon/0.31-SNAPSHOT/boon-0.31-SNAPSHOT.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-vertx/0.7.2/d3efcedb09811affaad49a2103ff33bdc92a3663/qbit-vertx-0.7.2.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/io/fastjson/boon/0.31-SNAPSHOT/boon-0.31-SNAPSHOT-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-vertx/0.7.2/c42c46af09ad64580a215b06cad9d454b20e4c95/qbit-vertx-0.7.2-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Gradle: io.netty:netty-all:4.0.20.Final">
@@ -259,15 +275,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES />
-    </library>
-    <library name="Gradle: io.vertx:lang-groovy:2.1.1">
-      <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/lang-groovy/2.1.1/706bf9382ce445a8ffd46a41c229c4fcd592e545/lang-groovy-2.1.1.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/lang-groovy/2.1.1/5f200611d7ec230f47c211509c1ae498789c51e7/lang-groovy-2.1.1-sources.jar!/" />
-      </SOURCES>
     </library>
     <library name="Gradle: io.vertx:vertx-core:2.1.1">
       <CLASSES>
@@ -302,15 +309,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES />
-    </library>
-    <library name="Gradle: org.codehaus.groovy:groovy-all:2.3.3">
-      <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.3.3/2ca73750564253964c70b396b6b5fda54a743f04/groovy-all-2.3.3.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.3.3/e9f92799cc8fe8afa7918cdb34a547bcc593701d/groovy-all-2.3.3-sources.jar!/" />
-      </SOURCES>
     </library>
     <library name="Gradle: org.hamcrest:hamcrest-core:1.1">
       <CLASSES>

@@ -3,7 +3,7 @@ package io.advantageous.qbit.examples.client;
 
 import io.advantageous.qbit.client.Client;
 import io.advantageous.qbit.client.ClientBuilder;
-import org.boon.core.Sys;
+
 
 /**
  * Created by fadi on 1/9/15.
@@ -42,7 +42,7 @@ public class TodoClientMain {
 
         client.flush();
 
-        Sys.sleep(1000);
+        
 
 
 
